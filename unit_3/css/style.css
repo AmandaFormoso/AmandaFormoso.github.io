@@ -1,14 +1,15 @@
 body {
-  background-image: url(https://github.com/AmandaFormoso/AmandaFormoso.github.io/blob/master/unit_3/images/rsz_capekiwandablack1.jpg);
+  background-image: ("images/rsz_capekiwandablack1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   font-family: Geneva;
 }
 
 h1 {
+  background-color: #000000;
   color: #ffffff;
 }
 
-#slogan p {
+#slogan {
   font-style: italic;
 }
