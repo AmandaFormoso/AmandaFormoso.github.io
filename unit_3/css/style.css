@@ -1,6 +1,10 @@
 body {
   background-color: #000000;
   background-size: cover;
+  background-image: ("images/rsz_1rsz_capekiwandablack1.jpg");
+  background-repeat: no-repeat;
+  display: block;
+  margin: 8px;
 }
 
 h1 {
