@@ -1,8 +1,9 @@
 body {
-  background: ("images/rsz_1rsz_capekiwandablack1.jpg");
+  background: url("images/rsz_1rsz_capekiwandablack1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   font-family: Geneva;
+  text-align: center;
 }
 
 h1 {
@@ -12,4 +13,9 @@ h1 {
 
 #slogan {
   font-style: italic;
+}
+
+#footer {
+  background-color: #000000;
+  color: #ffffff;
 }
