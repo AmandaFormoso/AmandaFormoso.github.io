@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Old+Standard+TT);
+@import url(https://fonts.googleapis.com/css?family=Questrial);
+
+body {
+  background: url("../images/rsz_rsz_capekiwandablack1.jpg");
+  background-size: cover;
+  font-family: 'Questrial', sans-serif;
+  text-align: center;
+}
+
+h1 {
+  background-color: #000000;
+  color: #ffffff;
+  font-family: 'Old Standard TT', serif;;
+}
+
+#slogan {
+  font-style: italic;
+}
+
+
