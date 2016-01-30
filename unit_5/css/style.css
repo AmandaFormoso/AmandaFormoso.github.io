@@ -1,6 +1,6 @@
 header {
   background-color: #FFED74;
-  text-align: center;
+  border: 1px black solid;
   padding: 20px;
 }
 
@@ -8,6 +8,7 @@ h1 {
   letter-spacing: 2px;
   font-family: sans-serif;
   border: 1px black solid;
+  text-align: center;
   padding: 20px;
 }
 
